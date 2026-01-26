@@ -1,2 +1,2 @@
 # aerobeat-input-mouse
-Maps generic mouse inputs to AeroBeat actions.
+Maps mouse inputs to AeroBeat actions using Godot's built in mouse management.
